@@ -1,6 +1,7 @@
 # huge ass file
 201908-citibike-tripdata.csv
 201908-citibike-tripdata.csv.zip
+clean_tripdata.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

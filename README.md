@@ -19,48 +19,48 @@ This analysis of 2,344,334 CitiBike trips in NYC shows the numbre of rides depen
 
 #### Peak Hours
 
-![Peak Hours]()
+![Peak Hours](peak_hours.PNG)
 
 When looking at all of the data together, it shows that the hours of 8am and 5-7pm are most popular for riding bikes. 
 
 #### Trip Duration
 
-![Trip Duration]()
+![Trip Duration](trip_duration.PNG)
 
 Breaking the data down by hour of trip duration, we can see that most trips last less than 30 mintutes. Looking at the 0 hour data, almost 147K trips lasted 5 minutes. To view the data per hour more clearly, click to filter the different hours of length of bike trips. 
 
 #### Trip Duration by Gender
 
-![Trip Duration by Gender]()
+![Trip Duration by Gender](trip_duration_by_gender.PNG)
 
 Now, see the frecquency of trip length broken down by gender. Along with a comparitive analysis of the gender breakdown of Des Moines, this will help us estimate the popularity of renting bikes amongst different genders. Again, to view the data per hour more clearly, click to filter the different hours of length of bike trips. 
 
 #### Weekday Popularity
 
-![Weekday Popularity]()
+![Weekday Popularity](weekday_popularity_heatmap.PNG)
 
 Toggle between the days of the week to see how the peak hours differ, and hold your cursor over a tile to see the number of riders it represents. It appears that the most popular time to ride is rush hour, 8am and then 5-7pm. However, you can see that the weekends between 11am-8pm are also high use times, as there are over 15K rides occuring. 
 
 #### Weekday Popularity by Gender
 
-![Weekday Popularity by Gender]()
+![Weekday Popularity by Gender](weekday_popularity_by_gender.PNG)
 
 Here you can toggle between days of the week or differen gender types (male, female, and unknown) to compare bike usage. For both male and female riders, the weekdays during rush hour are the most popular times to ride, while for gender of unknown, the weekend rides are more popular. This begs the question, is there a difference in entering user data between weekdays and weekends? Is there a difference in the user types and likeliness to leave the gender as "unknown"?
 
 #### User Types
 
-![User Types]()
-![User Types Key]()
+![User Types]("user_type.PNG")
+![User Types Key]("user_key.PNG")
 
 Users can either be subscribers, or recurring customers who have saved their data in the system for ease, or one-time customers, who just want to quickly hop on a bike as quiclky as possible. Subscribers make up 81% of customers, meaning that there is significant consistency and income security with NYC's most active riders. 
 
 #### Trips by Gender, Day, and User Type
 
-![Trips by Gender, Day, User Type]()
+![Trips by Gender, Day, User Type](trips_by_gender_day_user.PNG)
 
 The data broken down by Weekday, User Type, and Gender shows that male subscribers are riding the most frequently. Click to filter the Weekday, User type, and Gender to drill down into the results. Looking at all the data toether, we see that Male subscribers are taking the majority of the rides, so if you want to see increased success, it would be beneifital to focus your marketing on female customers. 
 
-![Customer Trips by Gender and Day]()
+![Customer Trips by Gender and Day](customer_rides_by_gender_day.PNG)
 
 However, if you click to filter the Type of customer to only Customer (non-subscribers), you can clearly see that they favor the weekend trips. Also, the group comprises a high number of "unkwnon" gender, which futher supports the idea that customer users are less likely to share their gender information than current riders. 
 
