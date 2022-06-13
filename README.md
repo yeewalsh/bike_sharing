@@ -49,8 +49,8 @@ Here you can toggle between days of the week or differen gender types (male, fem
 
 #### User Types
 
-![User Types]("user_type.PNG")
-![User Types Key]("user_key.PNG")
+![User Types](user_type.PNG)
+![User Types Key](user_key.PNG)
 
 Users can either be subscribers, or recurring customers who have saved their data in the system for ease, or one-time customers, who just want to quickly hop on a bike as quiclky as possible. Subscribers make up 81% of customers, meaning that there is significant consistency and income security with NYC's most active riders. 
 
